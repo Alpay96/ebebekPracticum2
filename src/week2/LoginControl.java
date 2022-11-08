@@ -6,14 +6,14 @@ public class LoginControl {
 
     public static void main(String[] args) {
 
-        String userName, password, newPassword;
+        String userName, password, newPassword, defaultUserName = "patika", defaultPassword = "java123";
         Scanner scan = new Scanner(System.in);
         System.out.print("User Name: ");
         userName = scan.nextLine();
         System.out.print("Password: ");
         password = scan.nextLine();
 
-        if (userName.equals("patika") && (password.equals("java123"))) {
+        if (userName.equals(defaultUserName) && (password.equals(defaultPassword))) {
             System.out.println("Login successful!");
         } else {
 
