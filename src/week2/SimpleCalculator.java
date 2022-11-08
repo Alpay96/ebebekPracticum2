@@ -30,8 +30,8 @@ public class SimpleCalculator {
             case 2:
                 System.out.println("Difference between " + n1 + " and " + n2 + " is " + (n1 - n2));
                 break;
-            case 3:
 
+            case 3:
                 System.out.println(n1 + " times " + n2 + " is " + (n1 * n2));
                 break;
 
@@ -39,7 +39,6 @@ public class SimpleCalculator {
                 if (n2 != 0) {
                     System.out.println(n1 + " divided by " + n2 + " is " + (n1 / n2));
                 }
-
                 else
                     System.out.println("You cannot divide a number by '0'.");
                 break;
