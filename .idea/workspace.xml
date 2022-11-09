@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="65a257f3-f3c0-4a79-9ee7-eeb4565fe8a5" name="Changes" comment="FlightTicketPriceCalculation">
-      <change afterPath="$PROJECT_DIR$/src/week2/task2/ChineseZodiac.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="65a257f3-f3c0-4a79-9ee7-eeb4565fe8a5" name="Changes" comment="ChineseZodiac">
+      <change beforePath="$PROJECT_DIR$/src/week2/task2/ChineseZodiac.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week2/task2/ChineseZodiac.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -188,7 +187,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668035961313</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="ChineseZodiac">
+      <created>1668037619367</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1668037619367</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -224,6 +230,7 @@
     <MESSAGE value="Number Sorting" />
     <MESSAGE value="HoroscopeFinder" />
     <MESSAGE value="FlightTicketPriceCalculation" />
-    <option name="LAST_COMMIT_MESSAGE" value="FlightTicketPriceCalculation" />
+    <MESSAGE value="ChineseZodiac" />
+    <option name="LAST_COMMIT_MESSAGE" value="ChineseZodiac" />
   </component>
 </project>

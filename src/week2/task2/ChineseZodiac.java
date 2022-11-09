@@ -5,10 +5,10 @@ import java.util.Scanner;
 public class ChineseZodiac {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
-        System.out.print("Enter date of birth (in years): ");
+        System.out.print("Enter date of birth (in years): ");   // The user's date of birth is taken as the year.
         int year = scan.nextInt();
 
-        switch (year % 12) {
+        switch (year % 12) {        // When calculating the Chinese zodiac, the person's year of birth is divided by 12. The horoscope is calculated based on the remaining number.
             case 0 -> System.out.println("Your Chinese Zodiac Horoscope: Monkey");
             case 1 -> System.out.println("Your Chinese Zodiac Horoscope: Rooster");
             case 2 -> System.out.println("Your Chinese Zodiac Horoscope: Dog");
