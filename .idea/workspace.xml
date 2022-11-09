@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="65a257f3-f3c0-4a79-9ee7-eeb4565fe8a5" name="Changes" comment="ActivitySuggestion">
-      <change afterPath="$PROJECT_DIR$/src/week2/NumberSorting.java" afterDir="false" />
+    <list default="true" id="65a257f3-f3c0-4a79-9ee7-eeb4565fe8a5" name="Changes" comment="Number Sorting">
+      <change afterPath="$PROJECT_DIR$/src/week2/HoroscopeFinder.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +40,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.NumberSorting">
+  <component name="RunManager" selected="Application.HoroscopeFinder">
     <configuration name="ActivitySuggestion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week2.ActivitySuggestion" />
       <module name="ebebekPracticum2" />
@@ -56,6 +56,19 @@
     </configuration>
     <configuration name="AverageCalculation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week2.AverageCalculation" />
+      <module name="ebebekPracticum2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HoroscopeFinder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week2.HoroscopeFinder" />
       <module name="ebebekPracticum2" />
       <extension name="coverage">
         <pattern>
@@ -93,26 +106,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SimpleCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week2.SimpleCalculator" />
-      <module name="ebebekPracticum2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="week2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HoroscopeFinder" />
         <item itemvalue="Application.NumberSorting" />
         <item itemvalue="Application.ActivitySuggestion" />
         <item itemvalue="Application.AverageCalculation" />
         <item itemvalue="Application.LoginControl" />
-        <item itemvalue="Application.SimpleCalculator" />
       </list>
     </recent_temporary>
   </component>
@@ -167,7 +167,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668017940991</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Number Sorting">
+      <created>1668019071110</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1668019071110</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -200,6 +207,7 @@
     <MESSAGE value="Login Control" />
     <MESSAGE value="AverageCalculation" />
     <MESSAGE value="ActivitySuggestion" />
-    <option name="LAST_COMMIT_MESSAGE" value="ActivitySuggestion" />
+    <MESSAGE value="Number Sorting" />
+    <option name="LAST_COMMIT_MESSAGE" value="Number Sorting" />
   </component>
 </project>
