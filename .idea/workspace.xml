@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="65a257f3-f3c0-4a79-9ee7-eeb4565fe8a5" name="Changes" comment="ChineseZodiac">
-      <change beforePath="$PROJECT_DIR$/src/week2/task2/ChineseZodiac.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week2/task2/ChineseZodiac.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week2/task3/LeapYear.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,20 +40,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ChineseZodiac">
-    <configuration name="ActivitySuggestion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week2.ActivitySuggestion" />
-      <module name="ebebekPracticum2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="week2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.LeapYear">
     <configuration name="ChineseZodiac" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week2.task2.ChineseZodiac" />
       <module name="ebebekPracticum2" />
@@ -92,6 +80,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LeapYear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week2.task3.LeapYear" />
+      <module name="ebebekPracticum2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week2.task3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="NumberSorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week2.NumberSorting" />
       <module name="ebebekPracticum2" />
@@ -107,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LeapYear" />
         <item itemvalue="Application.ChineseZodiac" />
         <item itemvalue="Application.FlightTicketPriceCalculation" />
         <item itemvalue="Application.HoroscopeFinder" />
         <item itemvalue="Application.NumberSorting" />
-        <item itemvalue="Application.ActivitySuggestion" />
       </list>
     </recent_temporary>
   </component>
@@ -194,7 +195,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668037619367</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="ChineseZodiac">
+      <created>1668038104301</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1668038104301</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
