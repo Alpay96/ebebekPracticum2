@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="65a257f3-f3c0-4a79-9ee7-eeb4565fe8a5" name="Changes" comment="Harmonic Series">
-      <change afterPath="$PROJECT_DIR$/src/week3/DiamondShapeWithStars.java" afterDir="false" />
+    <list default="true" id="65a257f3-f3c0-4a79-9ee7-eeb4565fe8a5" name="Changes" comment="Diamond Shape With Stars">
+      <change afterPath="$PROJECT_DIR$/src/week3/Atm.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,9 +40,9 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.DiamondShapeWithStars">
-    <configuration name="Combination" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week3.Combination" />
+  <component name="RunManager" selected="Application.Atm">
+    <configuration name="Atm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week3.Atm" />
       <module name="ebebekPracticum2" />
       <extension name="coverage">
         <pattern>
@@ -108,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Atm" />
         <item itemvalue="Application.DiamondShapeWithStars" />
         <item itemvalue="Application.HarmonicSeries" />
         <item itemvalue="Application.SumOfDigits" />
         <item itemvalue="Application.ExponentialNumberCalculator" />
-        <item itemvalue="Application.Combination" />
       </list>
     </recent_temporary>
   </component>
@@ -272,7 +272,21 @@
       <option name="project" value="LOCAL" />
       <updated>1668234359783</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Diamond Shape With Stars">
+      <created>1668249747774</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1668249747774</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Diamond Shape With Stars">
+      <created>1668249792740</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1668249792740</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -317,6 +331,7 @@
     <MESSAGE value="Exponential Number Calculator" />
     <MESSAGE value="Sum of digits" />
     <MESSAGE value="Harmonic Series" />
-    <option name="LAST_COMMIT_MESSAGE" value="Harmonic Series" />
+    <MESSAGE value="Diamond Shape With Stars" />
+    <option name="LAST_COMMIT_MESSAGE" value="Diamond Shape With Stars" />
   </component>
 </project>
