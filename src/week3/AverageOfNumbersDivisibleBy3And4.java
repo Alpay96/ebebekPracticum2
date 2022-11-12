@@ -18,7 +18,7 @@ public class AverageOfNumbersDivisibleBy3And4 {
             }
         }
 
-        if (k < 12)
+        if (counter == 0)
             System.out.println("There is no number divisible by '3 and 4' between the number entered from 0.");
 
         else {
