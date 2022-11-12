@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="65a257f3-f3c0-4a79-9ee7-eeb4565fe8a5" name="Changes" comment="Diamond Shape With Stars">
-      <change afterPath="$PROJECT_DIR$/src/week3/Atm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="65a257f3-f3c0-4a79-9ee7-eeb4565fe8a5" name="Changes" comment="ATM transactions">
+      <change beforePath="$PROJECT_DIR$/src/week3/Atm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week3/Atm.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -286,7 +285,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668249792740</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="ATM transactions">
+      <created>1668251989872</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1668251989872</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -332,6 +338,7 @@
     <MESSAGE value="Sum of digits" />
     <MESSAGE value="Harmonic Series" />
     <MESSAGE value="Diamond Shape With Stars" />
-    <option name="LAST_COMMIT_MESSAGE" value="Diamond Shape With Stars" />
+    <MESSAGE value="ATM transactions" />
+    <option name="LAST_COMMIT_MESSAGE" value="ATM transactions" />
   </component>
 </project>

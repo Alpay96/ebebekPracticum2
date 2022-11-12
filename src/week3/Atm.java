@@ -15,7 +15,7 @@ public class Atm {
             password = scan.nextLine();
 
             if (username.equals("alpay") && password.equals("alpay123")) {
-                System.out.println("Hello and welcome to A.U bank.");
+                System.out.println("Hello and welcome to USTALAR bank.");
 
                 do {
                     System.out.print("Please select the action you want to take: ");
