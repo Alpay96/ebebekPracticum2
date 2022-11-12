@@ -17,7 +17,13 @@ public class AverageOfNumbersDivisibleBy3And4 {
                 total += i;
             }
         }
-        average = total / counter;
-        System.out.println("The average of numbers divisible by 12, from 0 to the " + k + "\n" + "Average: " + average);
+
+        if (k < 12)
+            System.out.println("There is no number divisible by '3 and 4' between the number entered from 0.");
+
+        else {
+            average = total / counter;
+            System.out.println("The average of numbers divisible by 12, from 0 to the " + k + "\n" + "Average: " + average);
+        }
     }
 }

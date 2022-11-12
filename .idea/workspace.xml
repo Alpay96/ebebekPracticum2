@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="65a257f3-f3c0-4a79-9ee7-eeb4565fe8a5" name="Changes" comment="leap year calculator">
-      <change afterPath="$PROJECT_DIR$/src/week3/AverageOfNumbersDivisibleBy3And4.java" afterDir="false" />
+    <list default="true" id="65a257f3-f3c0-4a79-9ee7-eeb4565fe8a5" name="Changes" comment="Average Of Numbers Divisible By 3 And 4">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week3/AverageOfNumbersDivisibleBy3And4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week3/AverageOfNumbersDivisibleBy3And4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -209,7 +209,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668039045699</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Average Of Numbers Divisible By 3 And 4">
+      <created>1668224753727</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1668224753727</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -247,6 +254,7 @@
     <MESSAGE value="FlightTicketPriceCalculation" />
     <MESSAGE value="ChineseZodiac" />
     <MESSAGE value="leap year calculator" />
-    <option name="LAST_COMMIT_MESSAGE" value="leap year calculator" />
+    <MESSAGE value="Average Of Numbers Divisible By 3 And 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Average Of Numbers Divisible By 3 And 4" />
   </component>
 </project>
