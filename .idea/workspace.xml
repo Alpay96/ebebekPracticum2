@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="65a257f3-f3c0-4a79-9ee7-eeb4565fe8a5" name="Changes" comment="Average Of Numbers Divisible By 3 And 4">
-      <change afterPath="$PROJECT_DIR$/src/week3/MultiplesOf4.java" afterDir="false" />
+    <list default="true" id="65a257f3-f3c0-4a79-9ee7-eeb4565fe8a5" name="Changes" comment="Sum even numbers and of multiples of 4">
+      <change afterPath="$PROJECT_DIR$/src/week3/PowersOf_4_And_5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +40,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.MultiplesOf4">
+  <component name="RunManager" selected="Application.PowersOf_4_And_5">
     <configuration name="AverageOfNumbersDivisibleBy3And4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week3.AverageOfNumbersDivisibleBy3And4" />
       <module name="ebebekPracticum2" />
@@ -60,19 +60,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="week2.task2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FlightTicketPriceCalculation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week2.task1.FlightTicketPriceCalculation" />
-      <module name="ebebekPracticum2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="week2.task1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,13 +93,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PowersOf_4_And_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week3.PowersOf_4_And_5" />
+      <module name="ebebekPracticum2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PowersOf_4_And_5" />
         <item itemvalue="Application.MultiplesOf4" />
         <item itemvalue="Application.AverageOfNumbersDivisibleBy3And4" />
         <item itemvalue="Application.LeapYear" />
         <item itemvalue="Application.ChineseZodiac" />
-        <item itemvalue="Application.FlightTicketPriceCalculation" />
       </list>
     </recent_temporary>
   </component>
@@ -230,7 +230,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668226011758</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Sum even numbers and of multiples of 4">
+      <created>1668227520512</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1668227520512</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -269,6 +276,7 @@
     <MESSAGE value="ChineseZodiac" />
     <MESSAGE value="leap year calculator" />
     <MESSAGE value="Average Of Numbers Divisible By 3 And 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Average Of Numbers Divisible By 3 And 4" />
+    <MESSAGE value="Sum even numbers and of multiples of 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sum even numbers and of multiples of 4" />
   </component>
 </project>
