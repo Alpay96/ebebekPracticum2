@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="65a257f3-f3c0-4a79-9ee7-eeb4565fe8a5" name="Changes" comment="ATM transactions">
-      <change afterPath="$PROJECT_DIR$/src/week3/GcdLcm.java" afterDir="false" />
+    <list default="true" id="65a257f3-f3c0-4a79-9ee7-eeb4565fe8a5" name="Changes" comment="Program to find Gcd and Lcm">
+      <change afterPath="$PROJECT_DIR$/src/week3/task1/MinMaxFinder.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +40,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.GcdLcm">
+  <component name="RunManager" selected="Application.MinMaxFinder">
     <configuration name="Atm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week3.Atm" />
       <module name="ebebekPracticum2" />
@@ -93,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumOfDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week3.SumOfDigits" />
+    <configuration name="MinMaxFinder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week3.task1.MinMaxFinder" />
       <module name="ebebekPracticum2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week3.*" />
+          <option name="PATTERN" value="week3.task1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MinMaxFinder" />
         <item itemvalue="Application.GcdLcm" />
         <item itemvalue="Application.Atm" />
         <item itemvalue="Application.DiamondShapeWithStars" />
         <item itemvalue="Application.HarmonicSeries" />
-        <item itemvalue="Application.SumOfDigits" />
       </list>
     </recent_temporary>
   </component>
@@ -300,7 +300,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668252082406</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Program to find Gcd and Lcm">
+      <created>1668252938268</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1668252938268</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -347,6 +354,7 @@
     <MESSAGE value="Harmonic Series" />
     <MESSAGE value="Diamond Shape With Stars" />
     <MESSAGE value="ATM transactions" />
-    <option name="LAST_COMMIT_MESSAGE" value="ATM transactions" />
+    <MESSAGE value="Program to find Gcd and Lcm" />
+    <option name="LAST_COMMIT_MESSAGE" value="Program to find Gcd and Lcm" />
   </component>
 </project>
