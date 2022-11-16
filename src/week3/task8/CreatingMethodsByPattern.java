@@ -2,6 +2,13 @@ package week3.task8;
 
 import java.util.Scanner;
 
+/*
+Subtracts 5 from the entered number up to where the entered number is 0 or negative.
+It prints the last value to the screen during each subtraction.
+Adds 5 again after the number is negative or 0.
+It also prints the last value of the number on the screen in each addition operation.
+ */
+
 public class CreatingMethodsByPattern {
     static void pattern(int N, int tempNumber, int result) {
         if (tempNumber > 0) {
@@ -12,7 +19,7 @@ public class CreatingMethodsByPattern {
                 tempNumber = result;
             }
         } else {
-            System.out.print(result + " ");
+            System.out.print(result + " ");     // Adds 5 again after the number is negative or 0.
             result += 5;
 
             if (result == N) {

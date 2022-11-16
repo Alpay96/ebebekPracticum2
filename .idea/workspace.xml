@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="65a257f3-f3c0-4a79-9ee7-eeb4565fe8a5" name="Changes" comment="Prime Number With Recursive">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="65a257f3-f3c0-4a79-9ee7-eeb4565fe8a5" name="Changes" comment="Creating Methods By Pattern" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -383,7 +381,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668615485113</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="Creating Methods By Pattern">
+      <created>1668617609926</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1668617609926</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -411,7 +416,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="ActivitySuggestion" />
     <MESSAGE value="Number Sorting" />
     <MESSAGE value="HoroscopeFinder" />
     <MESSAGE value="FlightTicketPriceCalculation" />
@@ -436,6 +440,7 @@
     <MESSAGE value="Advanced Calculator" />
     <MESSAGE value="Exponential Number with Recursive" />
     <MESSAGE value="Prime Number With Recursive" />
-    <option name="LAST_COMMIT_MESSAGE" value="Prime Number With Recursive" />
+    <MESSAGE value="Creating Methods By Pattern" />
+    <option name="LAST_COMMIT_MESSAGE" value="Creating Methods By Pattern" />
   </component>
 </project>
