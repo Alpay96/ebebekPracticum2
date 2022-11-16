@@ -9,7 +9,7 @@ public class PerfectNumber {
         System.out.print("The number you will query for the perfect number: ");
         number = scan.nextInt();
 
-        for (int i = 1; i < number; i++) {
+        for (int i = 1; i < number; i++) {      // We did not use equality in the condition because we included divisors excluding itself into the total.
             if (number % i == 0) {
                 total += i;
             }
