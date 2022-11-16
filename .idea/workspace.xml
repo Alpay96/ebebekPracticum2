@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="65a257f3-f3c0-4a79-9ee7-eeb4565fe8a5" name="Changes" comment="Inverted Triangle">
-      <change afterPath="$PROJECT_DIR$/src/week3/task4/PrimeNumbers.java" afterDir="false" />
+    <list default="true" id="65a257f3-f3c0-4a79-9ee7-eeb4565fe8a5" name="Changes" comment="Prime Numbers between 1-100">
+      <change afterPath="$PROJECT_DIR$/src/week3/task5/FibonacciSeries.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +40,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.PrimeNumbers">
+  <component name="RunManager" selected="Application.FibonacciSeries">
     <configuration name="ChineseZodiac" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week2.task2.ChineseZodiac" />
       <module name="ebebekPracticum2" />
@@ -54,12 +54,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InvertedTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week3.task3.InvertedTriangle" />
+    <configuration name="FibonacciSeries" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week3.task5.FibonacciSeries" />
       <module name="ebebekPracticum2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week3.task3.*" />
+          <option name="PATTERN" value="week3.task5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,12 +67,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinMaxFinder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week3.task1.MinMaxFinder" />
+    <configuration name="InvertedTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week3.task3.InvertedTriangle" />
       <module name="ebebekPracticum2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week3.task1.*" />
+          <option name="PATTERN" value="week3.task3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FibonacciSeries" />
         <item itemvalue="Application.PrimeNumbers" />
         <item itemvalue="Application.InvertedTriangle" />
         <item itemvalue="Application.PerfectNumber" />
         <item itemvalue="Application.ChineseZodiac" />
-        <item itemvalue="Application.MinMaxFinder" />
       </list>
     </recent_temporary>
   </component>
@@ -335,7 +335,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668602121721</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Prime Numbers between 1-100">
+      <created>1668603009501</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1668603009501</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -386,6 +393,7 @@
     <MESSAGE value="Max and Min Finder" />
     <MESSAGE value="Perfect Number" />
     <MESSAGE value="Inverted Triangle" />
-    <option name="LAST_COMMIT_MESSAGE" value="Inverted Triangle" />
+    <MESSAGE value="Prime Numbers between 1-100" />
+    <option name="LAST_COMMIT_MESSAGE" value="Prime Numbers between 1-100" />
   </component>
 </project>
