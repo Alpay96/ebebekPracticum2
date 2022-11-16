@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="65a257f3-f3c0-4a79-9ee7-eeb4565fe8a5" name="Changes" comment="Advanced Calculator">
-      <change afterPath="$PROJECT_DIR$/src/week3/ExponentialNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="65a257f3-f3c0-4a79-9ee7-eeb4565fe8a5" name="Changes" comment="Exponential Number with Recursive" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -363,7 +360,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668612787363</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="Exponential Number with Recursive">
+      <created>1668613799066</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1668613799066</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -391,7 +395,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Login Control" />
     <MESSAGE value="AverageCalculation" />
     <MESSAGE value="ActivitySuggestion" />
     <MESSAGE value="Number Sorting" />
@@ -416,6 +419,7 @@
     <MESSAGE value="Fibonacci Series" />
     <MESSAGE value="Palindrome Number" />
     <MESSAGE value="Advanced Calculator" />
-    <option name="LAST_COMMIT_MESSAGE" value="Advanced Calculator" />
+    <MESSAGE value="Exponential Number with Recursive" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exponential Number with Recursive" />
   </component>
 </project>

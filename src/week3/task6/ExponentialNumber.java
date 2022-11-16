@@ -5,24 +5,26 @@ import java.util.Scanner;
 // A program in Java language that uses the "Recursive" method for exponentiation, whose base and exponent values are taken from the user.
 
 public class ExponentialNumber {
-    static int i, temp, exponent, result = 1;
+    static int power(int base, int exponent) {
+        if (exponent == 0)
+            return 1;
 
-    public static void main(String[] args) {
+        else if (base == 1)
+            return 1;
 
-        System.out.println("Result: " + exponentialCalc(temp));
+        else {
+            return base * power(base, exponent - 1);
+        }
     }
 
-    static int exponentialCalc(int n) {
+    public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
 
-        System.out.print("Enter the base value: ");
-        temp = scan.nextInt();
+        System.out.print("Enter the base: ");
+        int bottom = scan.nextInt();
         System.out.print("Enter the exponent: ");
-        exponent = scan.nextInt();
+        int exponent = scan.nextInt();
 
-        for (i = 0; i < exponent; i++) {
-            result *= temp;
-        }
-        return result;
+        System.out.println("Result :" + power(bottom, exponent));
     }
 }
