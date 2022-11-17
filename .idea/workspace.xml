@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="65a257f3-f3c0-4a79-9ee7-eeb4565fe8a5" name="Changes" comment="Creating Methods By Pattern" />
+    <list default="true" id="65a257f3-f3c0-4a79-9ee7-eeb4565fe8a5" name="Changes" comment="Creating Methods By Pattern">
+      <change afterPath="$PROJECT_DIR$/src/week4/StudentGradingSystem/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week4/StudentGradingSystem/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week4/StudentGradingSystem/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week4/StudentGradingSystem/Teacher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,7 +43,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.CreatingMethodsByPattern">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="AdvancedCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week3.AdvancedCalculator" />
       <module name="ebebekPracticum2" />
@@ -77,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PalindromeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week3.PalindromeNumber" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week4.StudentGradingSystem.Main" />
       <module name="ebebekPracticum2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week3.task6.*" />
+          <option name="PATTERN" value="week4.StudentGradingSystem.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.CreatingMethodsByPattern" />
         <item itemvalue="Application.PrimeNumberWithRecursive" />
         <item itemvalue="Application.ExponentialNumber" />
         <item itemvalue="Application.AdvancedCalculator" />
-        <item itemvalue="Application.PalindromeNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -388,7 +394,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668617609926</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="Creating Methods By Pattern">
+      <created>1668617917098</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1668617917098</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
