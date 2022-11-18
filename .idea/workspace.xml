@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="65a257f3-f3c0-4a79-9ee7-eeb4565fe8a5" name="Changes" comment="Creating Methods By Pattern">
-      <change afterPath="$PROJECT_DIR$/src/week4/StudentGradingSystem/Course.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week4/StudentGradingSystem/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week4/StudentGradingSystem/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week4/StudentGradingSystem/Teacher.java" afterDir="false" />
+    <list default="true" id="65a257f3-f3c0-4a79-9ee7-eeb4565fe8a5" name="Changes" comment="Öğrenci Not Sistemi">
+      <change afterPath="$PROJECT_DIR$/src/week4/BoxingMatch/Fighter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week4/BoxingMatch/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week4/BoxingMatch/Ring.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,20 +42,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="AdvancedCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week3.AdvancedCalculator" />
-      <module name="ebebekPracticum2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="week3.task6.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.week4.BoxingMatch.Main">
     <configuration name="CreatingMethodsByPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week3.task8.CreatingMethodsByPattern" />
       <module name="ebebekPracticum2" />
@@ -109,13 +95,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="week4.BoxingMatch.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week4.BoxingMatch.Main" />
+      <module name="ebebekPracticum2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week4.BoxingMatch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.week4.BoxingMatch.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.CreatingMethodsByPattern" />
         <item itemvalue="Application.PrimeNumberWithRecursive" />
         <item itemvalue="Application.ExponentialNumber" />
-        <item itemvalue="Application.AdvancedCalculator" />
       </list>
     </recent_temporary>
   </component>
@@ -401,7 +400,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668617917098</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="Öğrenci Not Sistemi">
+      <created>1668712995464</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1668712995464</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -429,7 +435,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Number Sorting" />
     <MESSAGE value="HoroscopeFinder" />
     <MESSAGE value="FlightTicketPriceCalculation" />
     <MESSAGE value="ChineseZodiac" />
@@ -454,6 +459,7 @@
     <MESSAGE value="Exponential Number with Recursive" />
     <MESSAGE value="Prime Number With Recursive" />
     <MESSAGE value="Creating Methods By Pattern" />
-    <option name="LAST_COMMIT_MESSAGE" value="Creating Methods By Pattern" />
+    <MESSAGE value="Öğrenci Not Sistemi" />
+    <option name="LAST_COMMIT_MESSAGE" value="Öğrenci Not Sistemi" />
   </component>
 </project>
