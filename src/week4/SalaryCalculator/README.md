@@ -25,4 +25,8 @@ Notlar <br>
 - raiseSalary() hesaplanırken vergi ve bonuslar da dahil edilir. <br>
 - tax() fonksiyonu ile sadece salary’i uygulanan vergi hesaplanır. <br>
 - Toplam maaş: çalışanın kendi maaşı + bonus şeklinde hesaplanır. <br>
-- Vergi ve bonuslarla birlikte maaş için: vergi, bonus ve çalışanın kendi maaşı ile bulunur.
+- Vergi ve bonuslarla birlikte maaş için: vergi, bonus ve çalışanın kendi maaşı ile bulunur. <br> <br>
+
+Örnek çıktı: <br>
+
+![SalaryCalculator](https://user-images.githubusercontent.com/69324129/202780893-352fef6e-353f-4f3d-8e2c-9b3efa009e08.png)
