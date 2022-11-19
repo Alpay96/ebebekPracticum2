@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="65a257f3-f3c0-4a79-9ee7-eeb4565fe8a5" name="Changes" comment="Salary Calculator">
-      <change afterPath="$PROJECT_DIR$/src/week4/HarmonicAverage.java" afterDir="false" />
+    <list default="true" id="65a257f3-f3c0-4a79-9ee7-eeb4565fe8a5" name="Changes" comment="Harmonic Average">
+      <change afterPath="$PROJECT_DIR$/src/week4/ArrayOfMinMax.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,13 +40,13 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.HarmonicAverage">
-    <configuration name="CreatingMethodsByPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week3.task8.CreatingMethodsByPattern" />
+  <component name="RunManager" selected="Application.ArrayOfMinMax">
+    <configuration name="ArrayOfMinMax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week4.ArrayOfMinMax" />
       <module name="ebebekPracticum2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week3.task8.*" />
+          <option name="PATTERN" value="week4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrayOfMinMax" />
         <item itemvalue="Application.HarmonicAverage" />
         <item itemvalue="Application.week4.SalaryCalculator.Main" />
         <item itemvalue="Application.week4.BoxingMatch.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.CreatingMethodsByPattern" />
       </list>
     </recent_temporary>
   </component>
@@ -419,7 +419,21 @@
       <option name="project" value="LOCAL" />
       <updated>1668796853942</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="Harmonic Average">
+      <created>1668860651074</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1668860651074</updated>
+    </task>
+    <task id="LOCAL-00044" summary="Harmonic Average">
+      <created>1668860744854</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1668860744854</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -447,7 +461,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="ChineseZodiac" />
     <MESSAGE value="leap year calculator" />
     <MESSAGE value="Average Of Numbers Divisible By 3 And 4" />
     <MESSAGE value="Sum even numbers and of multiples of 4" />
@@ -472,6 +485,7 @@
     <MESSAGE value="Öğrenci Not Sistemi" />
     <MESSAGE value="Boxing Match" />
     <MESSAGE value="Salary Calculator" />
-    <option name="LAST_COMMIT_MESSAGE" value="Salary Calculator" />
+    <MESSAGE value="Harmonic Average" />
+    <option name="LAST_COMMIT_MESSAGE" value="Harmonic Average" />
   </component>
 </project>
