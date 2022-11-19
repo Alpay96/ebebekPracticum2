@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="65a257f3-f3c0-4a79-9ee7-eeb4565fe8a5" name="Changes" comment="Even Numbers Repeating In Arrays">
-      <change afterPath="$PROJECT_DIR$/src/week4/NumberGuessingGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week4/SortingElementsInArray/Main.java" afterDir="false" />
+    <list default="true" id="65a257f3-f3c0-4a79-9ee7-eeb4565fe8a5" name="Changes" comment="Number Guessing Game">
+      <change afterPath="$PROJECT_DIR$/src/week4/FrequencyOfElementsInArray/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,20 +40,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.NumberGuessingGame">
-    <configuration name="DrawBWithStars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week4.DrawBWithStars" />
-      <module name="ebebekPracticum2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="week4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.week4.FrequencyOfElementsInArray.Main">
     <configuration name="EvenNumbersRepeatingInArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week4.EvenNumbersRepeatingInArrays" />
       <module name="ebebekPracticum2" />
@@ -68,12 +54,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week4.Main" />
+    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week4.FrequencyOfElementsInArray.Main2" />
       <module name="ebebekPracticum2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week4.*" />
+          <option name="PATTERN" value="week4.FrequencyOfElementsInArray.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,6 +73,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="week4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="week4.FrequencyOfElementsInArray.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week4.FrequencyOfElementsInArray.Main" />
+      <module name="ebebekPracticum2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week4.FrequencyOfElementsInArray.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.week4.FrequencyOfElementsInArray.Main" />
+        <item itemvalue="Application.Main2" />
         <item itemvalue="Application.NumberGuessingGame" />
         <item itemvalue="Application.week4.SortingElementsInArray.Main" />
         <item itemvalue="Application.EvenNumbersRepeatingInArrays" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.DrawBWithStars" />
       </list>
     </recent_temporary>
   </component>
@@ -125,13 +124,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1667943314680</updated>
-    </task>
-    <task id="LOCAL-00001" summary=".">
-      <created>1667944273560</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1667944273560</updated>
     </task>
     <task id="LOCAL-00002" summary="simple calculator with switch-case">
       <created>1667944433926</created>
@@ -462,7 +454,21 @@
       <option name="project" value="LOCAL" />
       <updated>1668863758121</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="Sorting Elements In Array">
+      <created>1668896723684</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1668896723684</updated>
+    </task>
+    <task id="LOCAL-00050" summary="Number Guessing Game">
+      <created>1668896836501</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1668896836501</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -490,8 +496,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Powers Of 4 And 5" />
-    <MESSAGE value="Combination" />
     <MESSAGE value="Exponential Number Calculator" />
     <MESSAGE value="Sum of digits" />
     <MESSAGE value="Harmonic Series" />
@@ -515,6 +519,8 @@
     <MESSAGE value="A program that finds numbers closest to the entered number." />
     <MESSAGE value="Draw B With Stars" />
     <MESSAGE value="Even Numbers Repeating In Arrays" />
-    <option name="LAST_COMMIT_MESSAGE" value="Even Numbers Repeating In Arrays" />
+    <MESSAGE value="Sorting Elements In Array" />
+    <MESSAGE value="Number Guessing Game" />
+    <option name="LAST_COMMIT_MESSAGE" value="Number Guessing Game" />
   </component>
 </project>
