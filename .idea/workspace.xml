@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="65a257f3-f3c0-4a79-9ee7-eeb4565fe8a5" name="Changes" comment="A program that finds numbers closest to the entered number.">
-      <change afterPath="$PROJECT_DIR$/src/week4/DrawBWithStars.java" afterDir="false" />
+    <list default="true" id="65a257f3-f3c0-4a79-9ee7-eeb4565fe8a5" name="Changes" comment="Draw B With Stars">
+      <change afterPath="$PROJECT_DIR$/src/week4/EvenNumbersRepeatingInArrays.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +39,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.DrawBWithStars">
+  <component name="RunManager" selected="Application.EvenNumbersRepeatingInArrays">
     <configuration name="ArrayOfMinMax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week4.ArrayOfMinMax" />
       <module name="ebebekPracticum2" />
@@ -66,6 +66,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="EvenNumbersRepeatingInArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week4.EvenNumbersRepeatingInArrays" />
+      <module name="ebebekPracticum2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="HarmonicAverage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week4.HarmonicAverage" />
       <module name="ebebekPracticum2" />
@@ -79,25 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="week4.BoxingMatch.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week4.BoxingMatch.Main" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week4.Main" />
       <module name="ebebekPracticum2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week4.BoxingMatch.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="week4.SalaryCalculator.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week4.SalaryCalculator.Main" />
-      <module name="ebebekPracticum2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="week4.SalaryCalculator.*" />
+          <option name="PATTERN" value="week4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,11 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EvenNumbersRepeatingInArrays" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.DrawBWithStars" />
         <item itemvalue="Application.ArrayOfMinMax" />
         <item itemvalue="Application.HarmonicAverage" />
-        <item itemvalue="Application.week4.SalaryCalculator.Main" />
-        <item itemvalue="Application.week4.BoxingMatch.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -446,7 +446,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668862190232</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="Draw B With Stars">
+      <created>1668862870339</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1668862870339</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -474,7 +481,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Average Of Numbers Divisible By 3 And 4" />
     <MESSAGE value="Sum even numbers and of multiples of 4" />
     <MESSAGE value="Powers Of 4 And 5" />
     <MESSAGE value="Combination" />
@@ -499,6 +505,7 @@
     <MESSAGE value="Salary Calculator" />
     <MESSAGE value="Harmonic Average" />
     <MESSAGE value="A program that finds numbers closest to the entered number." />
-    <option name="LAST_COMMIT_MESSAGE" value="A program that finds numbers closest to the entered number." />
+    <MESSAGE value="Draw B With Stars" />
+    <option name="LAST_COMMIT_MESSAGE" value="Draw B With Stars" />
   </component>
 </project>
