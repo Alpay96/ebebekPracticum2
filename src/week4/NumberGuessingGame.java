@@ -35,13 +35,14 @@ public class NumberGuessingGame {
                 System.out.println("You got it ! Guess is : " + number);
                 isWin = true;
                 break;
+
             } else {
                 System.out.println("You have entered a wrong number !");
-                if (selected > number) {
+                if (selected > number)
                     System.out.println(selected + " is too Big!");
-                } else {
+                else
                     System.out.println(selected + " is too Low!");
-                }
+
 
                 wrong[right++] = selected;
                 System.out.println("Tries : " + (5 - right));
