@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="65a257f3-f3c0-4a79-9ee7-eeb4565fe8a5" name="Changes" comment="Harmonic Average">
-      <change afterPath="$PROJECT_DIR$/src/week4/ArrayOfMinMax.java" afterDir="false" />
+    <list default="true" id="65a257f3-f3c0-4a79-9ee7-eeb4565fe8a5" name="Changes" comment="A program that finds numbers closest to the entered number.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week4/ArrayOfMinMax.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week4/ArrayOfMinMax.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -433,7 +433,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668860744854</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="A program that finds numbers closest to the entered number.">
+      <created>1668861720807</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1668861720807</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -461,7 +468,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="leap year calculator" />
     <MESSAGE value="Average Of Numbers Divisible By 3 And 4" />
     <MESSAGE value="Sum even numbers and of multiples of 4" />
     <MESSAGE value="Powers Of 4 And 5" />
@@ -486,6 +492,7 @@
     <MESSAGE value="Boxing Match" />
     <MESSAGE value="Salary Calculator" />
     <MESSAGE value="Harmonic Average" />
-    <option name="LAST_COMMIT_MESSAGE" value="Harmonic Average" />
+    <MESSAGE value="A program that finds numbers closest to the entered number." />
+    <option name="LAST_COMMIT_MESSAGE" value="A program that finds numbers closest to the entered number." />
   </component>
 </project>
