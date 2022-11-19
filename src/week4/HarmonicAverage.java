@@ -4,8 +4,8 @@ public class HarmonicAverage {
     public static double getHarmonicMean(int[] numbers) {
         double sum = 0;
 
-        for (int i = 0; i < numbers.length; ++i) {
-            sum += 1 / (double) numbers[i];
+        for (int number : numbers) {
+            sum += 1 / (double) number;
         }
         return numbers.length / sum;
     }
