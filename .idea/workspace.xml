@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="65a257f3-f3c0-4a79-9ee7-eeb4565fe8a5" name="Changes" comment="Finding The Matrix Transpose">
-      <change afterPath="$PROJECT_DIR$/src/week4/PalindromeWords.java" afterDir="false" />
+    <list default="true" id="65a257f3-f3c0-4a79-9ee7-eeb4565fe8a5" name="Changes" comment="Palindrome Words">
+      <change afterPath="$PROJECT_DIR$/src/week4/MineSweeperGame/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week4/MineSweeperGame/MineSweeper.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +41,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.PalindromeWords">
+  <component name="RunManager" selected="Application.week4.MineSweeperGame.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week4.FindingTheMatrixTranspose.Main" />
       <module name="ebebekPracticum2" />
@@ -60,19 +61,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="week4.FrequencyOfElementsInArray.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="NumberGuessingGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week4.NumberGuessingGame" />
-      <module name="ebebekPracticum2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="week4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,13 +94,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="week4.MineSweeperGame.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week4.MineSweeperGame.Main" />
+      <module name="ebebekPracticum2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week4.MineSweeperGame.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.week4.MineSweeperGame.Main" />
         <item itemvalue="Application.PalindromeWords" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.week4.FrequencyOfElementsInArray.Main" />
         <item itemvalue="Application.Main2" />
-        <item itemvalue="Application.NumberGuessingGame" />
       </list>
     </recent_temporary>
   </component>
@@ -124,13 +125,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1667943314680</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Login Control">
-      <created>1667946964541</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1667946964541</updated>
     </task>
     <task id="LOCAL-00005" summary="AverageCalculation">
       <created>1667949415621</created>
@@ -468,7 +462,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668901665508</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="Palindrome Words">
+      <created>1668902932178</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1668902932178</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -496,7 +497,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Harmonic Series" />
     <MESSAGE value="Diamond Shape With Stars" />
     <MESSAGE value="ATM transactions" />
     <MESSAGE value="Program to find Gcd and Lcm" />
@@ -521,6 +521,7 @@
     <MESSAGE value="Number Guessing Game" />
     <MESSAGE value="Frequency Of Elements In Array" />
     <MESSAGE value="Finding The Matrix Transpose" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finding The Matrix Transpose" />
+    <MESSAGE value="Palindrome Words" />
+    <option name="LAST_COMMIT_MESSAGE" value="Palindrome Words" />
   </component>
 </project>
